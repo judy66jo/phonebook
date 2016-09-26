@@ -5,7 +5,7 @@
 /* FILL YOUR OWN IMPLEMENTATION HERE! */
 entry *findName(char lastName[], entry *pHead)
 {
-    /* TODO: implement */
+    /* TODO: implement hello*/
     return NULL;
 }
 
